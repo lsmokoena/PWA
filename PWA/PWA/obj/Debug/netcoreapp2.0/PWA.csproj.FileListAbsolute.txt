@@ -1,0 +1,11 @@
+C:\Users\lehana.mokoena\Documents\Projects\Progressive Web Apps\PWA\PWA\bin\Debug\netcoreapp2.0\PWA.deps.json
+C:\Users\lehana.mokoena\Documents\Projects\Progressive Web Apps\PWA\PWA\bin\Debug\netcoreapp2.0\PWA.runtimeconfig.json
+C:\Users\lehana.mokoena\Documents\Projects\Progressive Web Apps\PWA\PWA\bin\Debug\netcoreapp2.0\PWA.runtimeconfig.dev.json
+C:\Users\lehana.mokoena\Documents\Projects\Progressive Web Apps\PWA\PWA\bin\Debug\netcoreapp2.0\PWA.dll
+C:\Users\lehana.mokoena\Documents\Projects\Progressive Web Apps\PWA\PWA\obj\Debug\netcoreapp2.0\PWA.csprojResolveAssemblyReference.cache
+C:\Users\lehana.mokoena\Documents\Projects\Progressive Web Apps\PWA\PWA\obj\Debug\netcoreapp2.0\PWA.csproj.CoreCompileInputs.cache
+C:\Users\lehana.mokoena\Documents\Projects\Progressive Web Apps\PWA\PWA\obj\Debug\netcoreapp2.0\PWA.AssemblyInfoInputs.cache
+C:\Users\lehana.mokoena\Documents\Projects\Progressive Web Apps\PWA\PWA\obj\Debug\netcoreapp2.0\PWA.AssemblyInfo.cs
+C:\Users\lehana.mokoena\Documents\Projects\Progressive Web Apps\PWA\PWA\bin\Debug\netcoreapp2.0\PWA.pdb
+C:\Users\lehana.mokoena\Documents\Projects\Progressive Web Apps\PWA\PWA\obj\Debug\netcoreapp2.0\PWA.dll
+C:\Users\lehana.mokoena\Documents\Projects\Progressive Web Apps\PWA\PWA\obj\Debug\netcoreapp2.0\PWA.pdb
